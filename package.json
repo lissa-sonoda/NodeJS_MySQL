@@ -1,0 +1,26 @@
+{
+  "name": "NodeJS_MySQL",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na aula de Sistemas Distribuídos e Mobile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lissa-sonoda/NodeJS_MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lissa-sonoda/NodeJS_MySQL/issues"
+  },
+  "homepage": "https://github.com/lissa-sonoda/NodeJS_MySQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3-rc.0",
+    "nodemon": "^2.0.14"
+  }
+}
